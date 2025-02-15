@@ -58,4 +58,6 @@ Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines.
 - Inspired by various cybersecurity tools and techniques.
 - Thanks to the open-source community for their contributions.
 
-*<p align="center"> Coded by <a href="https://github.com/Midohajhouj">MIDO777</a> </p>*
+--- 
+
+#### *<p align="center"> Coded by <a href="https://github.com/Midohajhouj">MIDO777</a> </p>*
