@@ -1,5 +1,5 @@
 #!/bin/bash
-# Coded by MIDO777
+# Coded by LIONBAD
 
 # Check if IP and PORT are provided as arguments
 if [ $# -ne 2 ]; then
