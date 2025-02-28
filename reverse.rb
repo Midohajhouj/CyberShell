@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-#Coded by LIONBAD
+#Coded by LIONMAD
 require 'socket'
 
 # Check if IP and PORT are provided as arguments
