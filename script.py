@@ -1,5 +1,5 @@
 # Coded by LIONMAD
-# NO background mode & NO requrement
+# NO background mode & NO requirement
 import socket
 import subprocess
 import os
