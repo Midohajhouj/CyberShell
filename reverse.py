@@ -1,4 +1,4 @@
-# Coded by LIONMAD
+# Coded by MIDØ
 # Background mode requres (pip install python-daemon --break-system-packages)
 import socket
 import subprocess
