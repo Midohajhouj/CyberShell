@@ -60,5 +60,5 @@ Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines.
 
 --- 
 
-#### *<p align="center"> Coded by <a href="https://github.com/Midohajhouj">LIONMAD</a> </p>*
+#### *<p align="center"> Coded by <a href="https://github.com/Midohajhouj">MIDØ</a> </p>*
 
