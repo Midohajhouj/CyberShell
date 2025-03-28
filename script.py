@@ -1,4 +1,4 @@
-# Coded by MIDØ
+# Coded by LIONMAD
 # NO background mode & NO requirement
 import socket
 import subprocess
